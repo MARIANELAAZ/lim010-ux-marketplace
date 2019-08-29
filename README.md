@@ -1,6 +1,6 @@
 # Plataforma de ventas en línea
 
-![logoDahlia](https://user-images.githubusercontent.com/50186958/63889245-3d32bc00-c9a6-11e9-9d13-eb6acea824d4.png)
+![logoDahlia1](img/logoDahlia1.jpg)
 
 ## Índice
 
@@ -56,19 +56,24 @@
 ### 1) Descubrimiento e Investigación
 
 #### Entrevista con el Cliente
+![entrevistaclinte](img/entrevistacliente.jpeg)
 
 #### Entrevista con el Usuario
 
 #### Benchmark
-
+![benchmark](img/benchmark.jpg)
 ### 2) Síntesis y Definición
-
-
 #### Affinity Map
+![affinitymap](img/affinitymap.jpg)
 #### User Persona
+![USERPERSONA](img/userpersona.png)
 #### Customer Journey Map
+![journeymap](img/journeymap.jpg)
 #### Problem Statements
-#### How Might We, What if
+Son los siguientes:
+![problemstament](img/problemstament.jpg)
+#### How Might We
+![hmw](img/hmw.jpg)
 #### Definición del Producto
 #### Planteamiento de la solucion
 
@@ -77,14 +82,63 @@
 
 #### Card Sorting
 
+![cardsorting1](img/cardsorting1.png)
+
+![cardsorting2](img/cardsorting2.png)
 #### Prototipo de Baja Fidelidad
 
 + Resultados
-
-
+![bf1](img/bf1.jpg) 
+![bf2](img/bf2.jpg)
+![bf3](img/bf11.jpg)
+![bf4](img/bf3.jpg)
+![bf5](img/bf4.jpg)
+![bf6](img/bf5.jpg)
+![bf7](img/bf6.jpg)
+![bf8](img/bf7.jpg)
+![bf9](img/bf8.jpg)
+![bf10](img/bf9.jpg)
+![bf11](img/bf10.jpg)
 
 #### Prototipo de Media Fidelidad
 + Resultados
 
+![mf1](img/mf1.png)
+![mf2](img/mf2.png)
+![mf3](img/mf3.png)
+![mf4](img/mf4.png)
+![mf5](img/mf5.png)
+![mf6](img/mf6.png)
+![mf7](img/mf7.png)
+![mf8](img/mf8.png)
+![mf9](img/mf9.png)
+![mf10](img/mf10.png)
+![mf11](img/mf11.png)
+![mf12](img/mf12.png)
+![mf13](img/mf13.png)
+![mf14](img/mf14.png)
+![mf15](img/mf15.png)
 #### Prototipo de Alta Fidelidad
 + Resultados
+![af1](img/af1.png)
+![af2](img/af2.png)
+![af3](img/af3.png)
+![af4](img/af4.png)
+![af5](img/af5.png)
+![af6](img/af6.png)
+![af7](img/af7.png)
+![af8](img/af8.png)
+![af9](img/af9.png)
+![af10](img/af10.png)
+![af11](img/af11.png)
+![af12](img/af12.png)
+![af13](img/af13.png)
+![af14](img/af14.png)
+![af15](img/af15.png)
+![af16](img/af16.png)
+![af17](img/af17.png)
+![af18](img/af18.png)
+![af19](img/af19.png)
+
+## Enlaces
+---

@@ -31,6 +31,8 @@
 
 ## Introducción
 ---
+Dahlia Swimwear es un emprendimiento peruano que diseña trajes de baño. Esta iniciativa comenzó hace 6 años por María José Bullen una joven diseñadora de modas que tomó el sueño inspirada por su abuela para continuar con este camino de crear diseños originales dirigidos a mujeres que le gustan estar a la moda; encontrándose diferentes retos en todo este tiempo dentro de los más importantes ha sido enfrentarse a empresas que cuentan con páginas Web ya establecidas, mientras que por su lado solo vende por redes sociales: facebook, instagram, así como en una tienda física multimarca "Fascino La Galería" ubicadas en San Isidro y Jockey Plaza.
+Por ello, fuimos en búsqueda de entender y analizar el contexto del negocio, buscando referencias en el mercado, entender las necesidades de los usuarios para obtener el mejor flujo de compra a través de una tienda online. 
 
 ## Objetivo del Proyecto
 ---
@@ -88,17 +90,10 @@ Son los siguientes:
 #### Prototipo de Baja Fidelidad
 
 + Resultados
-![bf1](img/bf1.jpg) 
-![bf2](img/bf2.jpg)
-![bf3](img/bf11.jpg)
-![bf4](img/bf3.jpg)
-![bf5](img/bf4.jpg)
-![bf6](img/bf5.jpg)
-![bf7](img/bf6.jpg)
-![bf8](img/bf7.jpg)
-![bf9](img/bf8.jpg)
-![bf10](img/bf9.jpg)
-![bf11](img/bf10.jpg)
+
+![bf1](img/bf1.png)
+![bf2](img/bf2.png)
+![bf3](img/bf3.png)
 
 #### Prototipo de Media Fidelidad
 + Resultados
@@ -106,18 +101,7 @@ Son los siguientes:
 ![mf1](img/mf1.png)
 ![mf2](img/mf2.png)
 ![mf3](img/mf3.png)
-![mf4](img/mf4.png)
-![mf5](img/mf5.png)
-![mf6](img/mf6.png)
-![mf7](img/mf7.png)
-![mf8](img/mf8.png)
-![mf9](img/mf9.png)
-![mf10](img/mf10.png)
-![mf11](img/mf11.png)
-![mf12](img/mf12.png)
-![mf13](img/mf13.png)
-![mf14](img/mf14.png)
-![mf15](img/mf15.png)
+
 #### Prototipo de Alta Fidelidad
 + Resultados
 ![af1](img/af1.png)

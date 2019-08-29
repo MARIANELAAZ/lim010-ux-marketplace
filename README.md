@@ -1,6 +1,9 @@
 # Plataforma de ventas en línea
 
-![logoDahlia1](img/logoDahlia1.jpg)
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/51302752/63959602-2649a380-ca52-11e9-9c2b-1f3b1bbe8f33.jpg" alt="Sublime's custom image"/>
+</p>
 
 ## Índice
 
@@ -58,9 +61,18 @@ Por ello, fuimos en búsqueda de entender y analizar el contexto del negocio, bu
 ### 1) Descubrimiento e Investigación
 
 #### Entrevista con el Cliente
-![entrevistaclinte](img/entrevistacliente.jpeg)
+
+<p align="center">
+  <img width="500" height="400"src="https://user-images.githubusercontent.com/51302752/63959847-c273aa80-ca52-11e9-8516-e7915ef98ef9.jpeg"
+</p>
 
 #### Entrevista con el Usuario
+
+<p align="center">
+  <img width="400" height="250"src="https://user-images.githubusercontent.com/51302752/63960543-53975100-ca54-11e9-8cb2-3a26a12d6095.png"
+</p> <p align="center">
+  <img width="400" height="250"src="https://user-images.githubusercontent.com/51302752/63960543-53975100-ca54-11e9-8cb2-3a26a12d6095.png"
+</p> 
 
 #### Benchmark
 ![benchmark](img/benchmark.jpg)
@@ -76,7 +88,10 @@ Son los siguientes:
 ![problemstament](img/problemstament.jpg)
 #### How Might We
 ![hmw](img/hmw.jpg)
+
 #### Definición del Producto
+
+
 #### Planteamiento de la solucion
 
 

@@ -1,12 +1,12 @@
 # Plataforma de ventas en línea
-
+___
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/51302752/63959602-2649a380-ca52-11e9-9c2b-1f3b1bbe8f33.jpg" alt="Sublime's custom image"/>
 </p>
 
 ## Índice
-
+___
 - [Introducción](#introducción)
 - [Objetivos del Proyecto](#objetivos-del-proyecto)
 - [Implementación](#implementación)
@@ -19,8 +19,7 @@
         - [Affinity Map](#affinity-map)
         - [User Persona](#user-persona)
         - [Customer Journey Map](#customer-journey-map)
-        - [Problem Statements](#problem-statements)
-        - [How might We, What if](#how-might-we,-what-if)
+        - [Definición del Producto](#definicion-del-producto)
      3) [Ideación, Prototipado y User Testing](#ideación,-prototipado-y-user-testing)
         - [Card Sorting](#card-sorting)
         - [Prototipo de Baja Fidelidad](#prototipo-de-baja-fidelidad)
@@ -34,8 +33,8 @@
 
 ## Introducción
 ---
-Dahlia Swimwear es un emprendimiento peruano que diseña trajes de baño. Esta iniciativa comenzó hace 6 años por María José Bullen una joven diseñadora de modas que tomó el sueño inspirada por su abuela para continuar con este camino de crear diseños originales dirigidos a mujeres que le gustan estar a la moda; encontrándose diferentes retos en todo este tiempo dentro de los más importantes ha sido enfrentarse a empresas que cuentan con páginas Web ya establecidas, mientras que por su lado solo vende por redes sociales: facebook, instagram, así como en una tienda física multimarca "Fascino La Galería" ubicadas en San Isidro y Jockey Plaza.
-Por ello, fuimos en búsqueda de entender y analizar el contexto del negocio, buscando referencias en el mercado, entender las necesidades de los usuarios para obtener el mejor flujo de compra a través de una tienda online. 
+__Dahlia Swimwear__ es un emprendimiento peruano que diseña trajes de baño. Esta iniciativa comenzó hace 6 años por María José Bullen una joven diseñadora de modas que tomó el sueño inspirada por su abuela, para continuar con este camino de crear diseños originales dirigidos a mujeres que le gustan estar a la moda; encontrándose diferentes retos en todo este tiempo dentro de los más importantes ha sido enfrentarse a empresas que cuentan con páginas Web ya establecidas. Actualmente, solo vende por las redes sociales facebook, instagram, cuando realiza Showroom cada dos meses, así como en la tienda física multimarca "Fascino La Galería" ubicadas en San Isidro y Jockey Plaza.
+Por ello, fuimos en búsqueda de entender y analizar el contexto del negocio de ventas de traje de baño, buscando referencias en el mercado, entender las necesidades de los usuarios para obtener el mejor flujo de compra a través de una tienda online. 
 
 ## Objetivos del Proyecto
 ---
@@ -64,8 +63,9 @@ Por ello, fuimos en búsqueda de entender y analizar el contexto del negocio, bu
 
 ## Proceso UX
 ---
+Todas las actividades y productos generados en esta investigación estuvo enmarcado en el Diseño centrado en el usuario y se pueden dividir en las siguientes etapas del proceso Design Thinking
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/50186958/63958788-7293e400-ca50-11e9-9531-41fa4e8f9030.png"
+  <img src="https://user-images.githubusercontent.com/50186958/64029800-ea264980-cb0a-11e9-8dfe-a76c13546ded.png"
 </p>
 
 ### 1) Descubrimiento e Investigación
@@ -74,9 +74,9 @@ En esta fase aplicamos las siguientes herramientas que nos ayudaron a entender a
 #### Entrevista con el Cliente
 
 <p align="end"</p>
-"Le doy importancia a cómo se sienten mis clientes." Cliente
+ "Le doy importancia a cómo se sienten mis clientes." Maria José Bullen 
 
-Sé entrevistó a María José Bullén una joven emprendedora de trajes de baño, que busca destacar con sus diseños exclusivos y de buena calidad, pero que reconoce que digitalmente se encuentra con deficiencia. A través de la entrevista se pudo obtener el User Target, para continuar con el siguiente paso.
+Se entrevistó a María José Bullén una joven emprendedora de trajes de baño, que busca destacar con sus diseños exclusivos y de buena calidad, pero que reconoce que digitalmente se encuentra con deficiencia. A través de la entrevista pudimos identificar las fortalezas y debilidades de su emprendimiento y se pudo obtener el User Target para sus productos, para continuar con el siguiente paso.
 
 __USER TARGET : Mujeres de edad promedio entre 18 y 45 años que disfrutan del verano, el sol, la piscina; Amantes de la moda y sus últimas tendencias. Estas mujeres deben tener actitud, poder adquisitivo y ser independientes.__
 
@@ -86,7 +86,7 @@ __USER TARGET : Mujeres de edad promedio entre 18 y 45 años que disfrutan del v
 
 #### Entrevista con el Usuario
 
-Se entrevistó a ____2 usuarias__ y __6 posibles____ usuarias para poder conocer sus opiniones y reconocer lo positivo y negativo que tengan en el flujo de compra en trajes de baño.
+Se entrevistó a ____2 usuarias (clientes)__ y __6 posibles____ usuarias para poder conocer sus opiniones y reconocer lo positivo y negativo que tengan en el flujo de compra en trajes de baño, así como su experiencia sobre el uso de plataformas digitales
 
 Dentro de ello, se reconoció los fragmentos más tocados:
 + Valoro más la calidad y diseño de la tela que los precios al momento de comprar un traje de baño
@@ -109,11 +109,11 @@ Aplicamos esta técnica para observar y comparar otros productos y/o servicios, 
 En esta etapa logramos encontrar el sentido de lo investigado y lo obtenido en la etapa de investigación UX
 
 #### Affinity Map
-Después de las entrevistas realizadas a los usuarios y posibles usuarios, se hizo el affinity para tener puntos claros.
+Después de las entrevistas realizadas a los usuarios y posibles usuarios, se hizo un mapa de afinidad para agrupar por temas los hallazgos y observaciones mas resaltantes de nuestras usuarias durante la realización de las entrevistas.
 
 ![affinitymap](img/affinitymap.jpg)
 
- De los cuales fueron estos los más resaltantes:
+ Luego, realizamos una priorización de los temas y obtuvimos lo siguiente:
 + Preferencias(Gustos): 
    + Variedad en diseños.
    + Diseños exclusivos.
@@ -132,7 +132,7 @@ Después de las entrevistas realizadas a los usuarios y posibles usuarios, se hi
    + Uso de la publicidad.
 
 #### User Persona
-Luego de obtener los grupos con las caracteristicas más resaltantes en el Affinity Map y los hallazgos más resaltantes de las entrevistas, diseñamos nuestra __USER PERSONA__ , que es un personaje de ejemplo que representa al grupo de usuarios de nuestro producto
+Luego de obtener los grupos con las caracteristicas más resaltantes en el Affinity Map y los hallazgos de las entrevistas, diseñamos nuestra __USER PERSONA__ , que es un personaje de ejemplo que representa al grupo de usuarios de nuestro producto
 
 ![USERPERSONA](img/userpersona.png)
 
@@ -141,16 +141,47 @@ Esta herramienta de Design Thinking nos permitió evaluar el caso en que nuestra
 
 ![journeymap](img/journeymap.jpg)
 
-#### Problem Statements
-Ya desarrollando todo lo anterior se pasó a plantearse lo siguiente:
+#### Definición del Producto
+
+##### Problem Statements
+Una vez desarrollado todo lo anterior se definieron los __Problem Statements__ y se priorizaron los siguientes:
 
 ![problemstament](img/problemstament.jpg)
 
-#### How Might We
-Se realizó pequeñas preguntas que nos ayudaron a pensar en posibles soluciones para nuestros __problem statement__ y nos van a ayudar a entenderlos mejor.
+##### How Might We, What if
+Se realizó pequeñas preguntas __¿Cómo podriamos?__ _(How Might We)_ que nos ayudaron a pensar en posibles soluciones para nuestros __problem statement__ y nos van a ayudar a entenderlos mejor.
 
 ![hmw](img/hmw.jpg)
 
+Luego, elaboramos los __What if__ para cuestionarnos los problemas y que surgan ideas de solución a nuestro problema
+
++ Problem Statement 1
+   - _What if_ ofrecemos un catálogo por temporada que le permita al usuario facilitar la búsqueda del traje de baño?
+   - _What if_ si clasificamos los trajes de baño por tipo: bikini, trikini, enterizo?
+   - _What if_ al seleccionar un Traje de Baño de su elección, aparezca una descripción más detallada, precio y tallas disponibles?
+
++ Problem Statement 2
+   - _What if_ realizamos un e-commerce que cuente con una metodología fácil de entender?
+   - _What if_ si le proporcionamos todos los detalles de envío y pago al usuario al momento de la compra?
+   - _What if_ si utilizamos formularios con una estructura sencilla, que le permita al usuario entender que esta avanzando satisfactoriamente
+
++ Problem Statement 3
+   - _What if_ creamos un chat en línea para que el usuario contacte al vendedor
+   - _What if_ colocamos las redes sociales y los números de contacto de la empresa en un sitio visible
+   - _What if_ diseñamos una tabla de medidas para que el usuario obtenga sus medidas cuando se encuentre buscando el traje de baño?
+
+##### Lista de Features
+Se definieron y priorizaron una lista de funcionalidades con ayuda del Benchmark y la lluvia de ideas _(brainstorm)_ para la definición del problema y sus posibles soluciones, y formarán parte de nuestro MVP o Producto Mínimo Viable.
+1. Creación de un **catálogo en línea de traje de baño** con las colecciones por temporada de Dahlia Swimwear
+2. **Filtros de búsqueda** de traje de baño en la tienda online por tipo de Traje de baño
+3. **Tienda online** donde el usuario encuentre la descripción detallada de los trajes de baño, mostrando talla, precio, disponibilidad, antes de tomar una decisión
+4. Creación de una **plataforma e-commerce** para Dahlia Swimwear
+5. Proceso de compra con **formularios sencillos e intuitivos** aplicando una metodología paso a paso
+6. Implementación de un **chat en línea** que le permita al usuario escribirle al vendedor
+7. Elaboración de una **tabla de medidas** para que el usuario busque su talla de traje de baño de una manera facil y genuina
+
+
+![mvp](https://user-images.githubusercontent.com/50186958/64037435-36798580-cb1b-11e9-857e-ae2dade3bd5f.png)
 
 ### 3) Ideación, Prototipado y User Testing
 
@@ -175,6 +206,7 @@ En esta primera parte de la fase de prototipado, elaboramos nuestro prototipo de
    - Menor Facilidad: navegar el flujo de compra
    - Oportunidad de mejora: agregar función volver en tabla de medidas, resaltar acceso a tienda en línea, mejorar la ubicación de acceso a la tabla de medida
 
+![tester-baja](https://user-images.githubusercontent.com/50186958/64033777-d1ba2d00-cb12-11e9-8157-26e85352b742.png)
 
 #### Prototipo de Media Fidelidad 
 Es elaborado luego de mejorar nuestro prototipo de baja calidad en la 1era iteracción. Aqui se destaca como será la estructura o el esqueleto de nuestro siio web, sin tomar en cuenta el diseño visual. A continuación puede observar nuestro prototipo con las mejoras realizadas del primer testeo
@@ -190,19 +222,24 @@ Es elaborado luego de mejorar nuestro prototipo de baja calidad en la 1era itera
    - Mayor Facilidad: siguen el proceso de compra de forma intuitiva
    - Oportunidad de mejora: agregar función cerrar ventana en colecciones y quitar iconos de visa/máster en información
 
+![tester-Media](https://user-images.githubusercontent.com/50186958/64033491-30cb7200-cb12-11e9-82bd-a8b7f26e243e.png)
+
 #### Prototipo de Alta Fidelidad
 Nuestro prototipo de alta fidelidad muestra las interacciones que serán parte del producto final y corresponde a las funcionalidades que solucionan los 3 problem statements que hemos priorizado. Es ideal para que los usuarios interactuen, y sirvan como guía para una posterior implementación y etapa de producción
 Este prototipo contiene botones e hipervínculos en los que se puede hacer clic y muchos componentes del prototipo actúan como lo harían en la aplicación real.
 
-![af1](img/af1.png)
-![af2](img/af2.png)
-![af3](img/af3.png)
+![AF1](https://user-images.githubusercontent.com/50186958/64039802-1cdb3c80-cb21-11e9-88ab-f8c89576bc1f.png)
+Pantallas de inicio, Promociones, Colecciones, Tienda en línea
+![AF2](https://user-images.githubusercontent.com/50186958/64039875-4b591780-cb21-11e9-9a95-91dd4b1faf8d.png)
+Pantallas de proceso de compra
+
 + Resultados
   - Ejecución de tareas promedio  5 seg.
   - 40% de los usuarios cometieron algún error
    - Mayor Dificultad: Ubicar las promociones
    - Mayor Facilidad: Navegar el flujo de compra, encontrar la talla de medidas
    - Oportunidad de mejora: Disminuir scroll de pantalla para mejorar las organización de algunos elementos (acciones)
+   ![tester-alta](https://user-images.githubusercontent.com/50186958/64034413-37f37f80-cb14-11e9-8107-0f1d45f71205.png)
 
 #### User Testing
 La metodología que utilizamos para llevar a cabo los User testing a nuestros prototipos fue la siguiente:
@@ -239,10 +276,14 @@ Por eso es la importancia de los User testing porque nos ayudan a saber lo que r
 
 ## Enlaces
 
-+ Link del Drive carpeta de los documentos complementarios https://drive.google.com/drive/folders/1JRWWwm6HuJqhHuGsYCvezk2bqhJuXaNS
++ [Carpeta Drive con el sustento de la investigación](https://drive.google.com/drive/folders/1JRWWwm6HuJqhHuGsYCvezk2bqhJuXaNS)
 
-+ Link del Prototipo en Figma 
++ [Prototipo de Media Fidelidad en Figma](https://www.figma.com/file/zfenrYcUnNSuKsWE2uYbGg/MarketPlace-Dahlia-Swimwear?node-id=1247%3A254)
 
-+ Link del Prototipo interactivo Invision
-+ Link del Prototipo en Zeplin
-+ Link del Video en Loom https://www.loom.com/share/5059057e7e7f48f68c362841a4715da8
++ [Prototipo de Alta Fidelidad en Figma](https://www.figma.com/file/PC1mPNmf0Wzjn1BMbUNIZK/AltaFidelidad-Dahlia-Definitvo?node-id=169%3A63) 
+
++ [Prototipo interactivo en Invision](https://invis.io/6GTPLTVJVDR#/381693751_Desktop_Uno)
+
++ [Prototipo en Zeplin](https://zpl.io/ankBB0A)
+
++ [Video de presentación final del proyecto en Loom](https://www.loom.com/share/5059057e7e7f48f68c362841a4715da8)

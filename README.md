@@ -21,8 +21,6 @@
         - [Customer Journey Map](#customer-journey-map)
         - [Problem Statements](#problem-statements)
         - [How might We, What if](#how-might-we,-what-if)
-         - [Definición del Producto](#definición-del-producto)
-        - [Planteamiento de la solución](#planteamiento-de-la-solucion)
      3) [Ideación, Prototipado y User Testing](#ideación,-prototipado-y-user-testing)
         - [Card Sorting](#card-sorting)
         - [Prototipo de Baja Fidelidad](#prototipo-de-baja-fidelidad)
@@ -66,12 +64,21 @@ Por ello, fuimos en búsqueda de entender y analizar el contexto del negocio, bu
 
 ## Proceso UX
 ---
-![design-thinking](https://user-images.githubusercontent.com/50186958/64029800-ea264980-cb0a-11e9-8dfe-a76c13546ded.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/50186958/63958788-7293e400-ca50-11e9-9531-41fa4e8f9030.png"
+</p>
 
 ### 1) Descubrimiento e Investigación
 En esta fase aplicamos las siguientes herramientas que nos ayudaron a entender al usuario, el mercado, al cliente, a la empresa, benchmarking.
 
 #### Entrevista con el Cliente
+
+<p align="end"</p>
+"Le doy importancia a cómo se sienten mis clientes." Cliente
+
+Sé entrevistó a María José Bullén una joven emprendedora de trajes de baño, que busca destacar con sus diseños exclusivos y de buena calidad, pero que reconoce que digitalmente se encuentra con deficiencia. A través de la entrevista se pudo obtener el User Target, para continuar con el siguiente paso.
+
+__USER TARGET : Mujeres de edad promedio entre 18 y 45 años que disfrutan del verano, el sol, la piscina; Amantes de la moda y sus últimas tendencias. Estas mujeres deben tener actitud, poder adquisitivo y ser independientes.__
 
 <p align="center">
   <img width="500" height="400"src="https://user-images.githubusercontent.com/51302752/63959847-c273aa80-ca52-11e9-8516-e7915ef98ef9.jpeg"
@@ -79,10 +86,18 @@ En esta fase aplicamos las siguientes herramientas que nos ayudaron a entender a
 
 #### Entrevista con el Usuario
 
+Se entrevistó a ____2 usuarias__ y __6 posibles____ usuarias para poder conocer sus opiniones y reconocer lo positivo y negativo que tengan en el flujo de compra en trajes de baño.
+
+Dentro de ello, se reconoció los fragmentos más tocados:
++ Valoro más la calidad y diseño de la tela que los precios al momento de comprar un traje de baño
++ Busco sentirme cómoda al momento de escoger un diseño.
++ Compro en tienda física más que virtualmente.
+
+
 <p align="center">
   <img width="400" height="250"src="https://user-images.githubusercontent.com/51302752/63960543-53975100-ca54-11e9-8cb2-3a26a12d6095.png"
 </p> <p align="center">
-  <img width="400" height="250"src="https://user-images.githubusercontent.com/51302752/63960543-53975100-ca54-11e9-8cb2-3a26a12d6095.png"
+  <img width="400" height="250"src="https://user-images.githubusercontent.com/51302752/63980344-e4842180-ca80-11e9-9695-b14e982646c9.jpg"
 </p> 
 
 #### Benchmark
@@ -94,7 +109,27 @@ Aplicamos esta técnica para observar y comparar otros productos y/o servicios, 
 En esta etapa logramos encontrar el sentido de lo investigado y lo obtenido en la etapa de investigación UX
 
 #### Affinity Map
+Después de las entrevistas realizadas a los usuarios y posibles usuarios, se hizo el affinity para tener puntos claros.
+
 ![affinitymap](img/affinitymap.jpg)
+
+ De los cuales fueron estos los más resaltantes:
++ Preferencias(Gustos): 
+   + Variedad en diseños.
+   + Diseños exclusivos.
+   + Comodidad (se adapte al cuerpo).
++ Motivación de Compra:
+   + Calidad del producto.
+   + Descuentos en compras on-line.
+   + Reputación del vendedor.
++ Procesos de Compra:
+   + Facilidades de pago.
+   + Comunicación con el cliente.
+   + Seguimiento de la compra.
++ Percepción de Plataformas Digitales:
+   + Ventas en redes sociales.
+   + Decisión de compra.
+   + Uso de la publicidad.
 
 #### User Persona
 Luego de obtener los grupos con las caracteristicas más resaltantes en el Affinity Map y los hallazgos más resaltantes de las entrevistas, diseñamos nuestra __USER PERSONA__ , que es un personaje de ejemplo que representa al grupo de usuarios de nuestro producto
@@ -107,16 +142,14 @@ Esta herramienta de Design Thinking nos permitió evaluar el caso en que nuestra
 ![journeymap](img/journeymap.jpg)
 
 #### Problem Statements
-Son los siguientes:
+Ya desarrollando todo lo anterior se pasó a plantearse lo siguiente:
+
 ![problemstament](img/problemstament.jpg)
+
 #### How Might We
+Se realizó pequeñas preguntas que nos ayudaron a pensar en posibles soluciones para nuestros __problem statement__ y nos van a ayudar a entenderlos mejor.
+
 ![hmw](img/hmw.jpg)
-
-
-#### Definición del Producto
-
-
-#### Planteamiento de la solucion
 
 
 ### 3) Ideación, Prototipado y User Testing
@@ -161,6 +194,9 @@ Es elaborado luego de mejorar nuestro prototipo de baja calidad en la 1era itera
 Nuestro prototipo de alta fidelidad muestra las interacciones que serán parte del producto final y corresponde a las funcionalidades que solucionan los 3 problem statements que hemos priorizado. Es ideal para que los usuarios interactuen, y sirvan como guía para una posterior implementación y etapa de producción
 Este prototipo contiene botones e hipervínculos en los que se puede hacer clic y muchos componentes del prototipo actúan como lo harían en la aplicación real.
 
+![af1](img/af1.png)
+![af2](img/af2.png)
+![af3](img/af3.png)
 + Resultados
   - Ejecución de tareas promedio  5 seg.
   - 40% de los usuarios cometieron algún error
@@ -202,4 +238,11 @@ Por eso es la importancia de los User testing porque nos ayudan a saber lo que r
    + Elaborar prototipos es una forma de validar o invalidar nuestras posibles soluciones o suposiciones; simulando la experiencia que queremos ofrecer al usuario sin requerir construir el real
 
 ## Enlaces
----
+
++ Link del Drive carpeta de los documentos complementarios https://drive.google.com/drive/folders/1JRWWwm6HuJqhHuGsYCvezk2bqhJuXaNS
+
++ Link del Prototipo en Figma 
+
++ Link del Prototipo interactivo Invision
++ Link del Prototipo en Zeplin
++ Link del Video en Loom https://www.loom.com/share/5059057e7e7f48f68c362841a4715da8

@@ -8,7 +8,7 @@
 ## Índice
 
 - [Introducción](#introducción)
-- [Objetivo del Proyecto](#objetivo-del-proyecto)
+- [Objetivos del Proyecto](#objetivos-del-proyecto)
 - [Implementación](#implementación)
 - [Proceso UX](#proceso-UX)
      1) [Descubrimiento e Investigación](#Descubrimiento-e-investigación)
@@ -28,6 +28,7 @@
         - [Prototipo de Baja Fidelidad](#prototipo-de-baja-fidelidad)
         - [Prototipo de Media Fidelidad](#prototipo-de-media-fidelidad)
         - [Prototipo de Alta Fidelidad](#prototipo-de-alta-fidelidad)
+        - [User Testing](#user-testing)
 
 - [Conclusiones](#conclusiones)
 - [Enlaces](#enlaces)
@@ -65,7 +66,7 @@ Por ello, fuimos en búsqueda de entender y analizar el contexto del negocio, bu
 
 ## Proceso UX
 ---
-![design-thinking](https://user-images.githubusercontent.com/50186958/63958788-7293e400-ca50-11e9-9531-41fa4e8f9030.png)
+![design-thinking](https://user-images.githubusercontent.com/50186958/64029800-ea264980-cb0a-11e9-8dfe-a76c13546ded.png)
 
 ### 1) Descubrimiento e Investigación
 En esta fase aplicamos las siguientes herramientas que nos ayudaron a entender al usuario, el mercado, al cliente, a la empresa, benchmarking.
@@ -128,7 +129,7 @@ Esta técnica nos permitió categorizar el contenido de nuestro sitio Web a trav
 ![cardsorting2](img/cardsorting2.png)
 
 #### Prototipo de Baja Fidelidad
-
+En esta primera parte de la fase de prototipado, elaboramos nuestro prototipo de papel o baja fidelidad, que representan nuestras pantallas de interfaz y permiten a los usuarios interactuar con él y visualizar rápidamente las ideas de diseño de una manera eficiente y de bajo costo. Aqui pueden observar los sketch o bocetos de nuestro proyecto.
 
 ![bf1](img/bf1.png)
 ![bf2](img/bf2.png)
@@ -166,6 +167,28 @@ Este prototipo contiene botones e hipervínculos en los que se puede hacer clic 
    - Mayor Dificultad: Ubicar las promociones
    - Mayor Facilidad: Navegar el flujo de compra, encontrar la talla de medidas
    - Oportunidad de mejora: Disminuir scroll de pantalla para mejorar las organización de algunos elementos (acciones)
+
+#### User Testing
+La metodología que utilizamos para llevar a cabo los User testing a nuestros prototipos fue la siguiente:
+- 3 escenarios:
+   - El usuario debe explorar la página y acceder a las colecciones de traje de baño
+   - El usuario debe ingresar a la tienda online para ver información más detallada del producto
+   - El Usuario debe ingresar a la plataforma de pago
+- 10 tareas
+- 3 sesiones (iteraciones)
+- Duración de 5-10 minutos
+- 15 usuarios (5 usuarios por cada prototipo)
+- Técnica de pensar en voz alta y preguntas de seguimiento al finalizar
+- Análisis de métricas cuantitativas y cualitativas
+   - 100% de los usuarios ejecutaron sus tareas
+   - Tiempo promedio de ejecución de tareas 15 segundos
+   - 1 Error cometido (promedio)
+   - Patrones de comportamiento
+   - Oportunidades de mejora 
+
+
+Por eso es la importancia de los User testing porque nos ayudan a saber lo que realmente hacen los usuarios al interactuar con nuestro producto y no lo que uno piensa que los usuarios van a hacer
+
 
 ## Conclusiones
  + Nuestra propuesta de valor, viene de un proceso iterativo, es decir, de ideas que se desarrollan, prueban y mejoran varias veces. __(Ciclo de mejora continua)__
